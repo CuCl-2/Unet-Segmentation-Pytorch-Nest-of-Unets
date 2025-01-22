@@ -26,6 +26,7 @@ from losses import calc_loss, dice_loss, threshold_predictions_v,threshold_predi
 from ploting import plot_kernels, LayerActivations, input_images, plot_grad_flow
 from Metrics import dice_coeff, accuracy_score
 import time
+print('i am here')
 #from ploting import VisdomLinePlotter
 #from visdom import Visdom
 
